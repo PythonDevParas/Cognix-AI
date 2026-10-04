@@ -1,0 +1,7 @@
+{
+  "name": "Cognix AI",
+  "description": "Minimalist ChatGPT-like interface featuring Cognix Flash, Flow, Pro, Ultra, and Cognix Imagen 3 visual generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
